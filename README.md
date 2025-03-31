@@ -43,11 +43,11 @@ Each executable presents a unique problem requiring reverse engineering, static/
 
 - **CTF_LockBit.exe**  
   - **Difficulty**: Moderate  
-  - Objective: Extract the embedded key by defeating basic anti-analysis or obfuscation routines.
+  - Objective: Recover a hidden key and understand the underlying mechanism. This challenge emphasizes advanced static and dynamic analysis.
 
 - **CTF_Amos.exe**  
   - **Difficulty**: Moderate  
-  - Objective: Identify and extract the hidden key through classic reverse engineering techniques, such as control-flow analysis and memory inspection.
+  - Objective: Identify and extract the hidden key through classic reverse engineering techniques, such as control-flow analysis.
 
 - **CTF_Cyclix.exe** 
   - **Difficulty**: Easy  
